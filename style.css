@@ -34,12 +34,12 @@ h1{
     margin-top: 50px;
 }
 
-@media (min-width: 375px){
+/* @media (min-width: 375px){
     input,
     #ovie,
     #kelly,
     h1 {
-        width: 200px;
+        width: 30px;
     }
 }
 
@@ -48,7 +48,7 @@ h1{
     #ovie,
     #kelly,
     h1 {
-        width: 300px;
+        width: 400px;
     }
 }
 
@@ -59,4 +59,4 @@ h1{
     h1 {
         width: 500px;
     }
-}
+} */
