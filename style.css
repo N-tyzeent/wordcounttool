@@ -33,3 +33,30 @@ h1{
     color: black;
     margin-top: 50px;
 }
+
+@media (min-width: 375px){
+    input,
+    #ovie,
+    #kelly,
+    h1 {
+        width: 300px;
+    }
+}
+
+@media (min-width: 768px) {
+    input,
+    #ovie,
+    #kelly,
+    h1 {
+        width: 400px;
+    }
+}
+
+@media (min-width: 1366px) {
+    input,
+    #ovie,
+    #kelly,
+    h1 {
+        width: 800px;
+    }
+}
